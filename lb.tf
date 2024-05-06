@@ -1,4 +1,4 @@
-	resource "yandex_lb_target_group" "k8s_lb_tg" {
+resource "yandex_lb_target_group" "k8s_lb_tg" {
   name = "${terraform.workspace}-k8s-tg"
 
   dynamic "target" {
