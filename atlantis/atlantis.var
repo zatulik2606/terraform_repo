@@ -3,3 +3,4 @@ USERNAME=zatulik2606
 TOKEN=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
 SECRET=zevs
 REPO_ALLOWLIST="github.com/zatulik2606/*"
+REPO_CONFIG=repos.yaml
